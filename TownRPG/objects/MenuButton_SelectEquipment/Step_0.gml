@@ -1,0 +1,1 @@
+equipment = ds_list_find_value(menu.slot.equipmentList, equipmentNumber)

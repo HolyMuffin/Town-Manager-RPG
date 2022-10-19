@@ -1,0 +1,1 @@
+source.hp = 0;

@@ -1,0 +1,1 @@
+lob(lobtest, x, y, mouse_x, mouse_y, 1, 1);

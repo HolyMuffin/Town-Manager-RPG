@@ -1,0 +1,2 @@
+initializeNonCharacter();
+xpMultiplier = 1;

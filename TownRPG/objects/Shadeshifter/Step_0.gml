@@ -1,0 +1,1 @@
+event_perform_object(doppel, ev_step, 0);

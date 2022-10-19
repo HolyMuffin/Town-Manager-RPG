@@ -1,0 +1,1 @@
+draw_sprite(SpriteBinahChains, 0, source.x, source.y);

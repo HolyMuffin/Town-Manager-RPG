@@ -1,0 +1,9 @@
+name = "Suspicious Brew"
+duration = 12*room_speed;
+statCount = 5;
+statNames = ["potency", "fury", "calm", "vitality", "wither"];
+var randValue = 12;
+rand1 = irandom(randValue);
+rand2 = irandom(randValue);
+statValues = [15, rand1, randValue-rand1, rand2, 2*(randValue-rand2)];
+stackLimit = 1;

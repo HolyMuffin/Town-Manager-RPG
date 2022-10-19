@@ -1,0 +1,14 @@
+active = false;
+cooldown_max = 100;
+cooldown = 50;
+targetX = 0;
+targetY = 0;
+counter = 0;
+spd = 0;
+dur1 = 35; //time to reach above point
+dur2 = 20; //time before slam
+dur3 = 10; //time it takes to slam
+dur4 = 60; //time to start returning
+//source = source
+returnX = 40;
+returnY = -60;
